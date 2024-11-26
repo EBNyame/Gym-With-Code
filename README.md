@@ -52,5 +52,21 @@ You can view the solution [here](challenges/Day01_PrintHello.py).
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/Daily-Python-Challenges.git
+   git clone https://github.com/ebnyame/Daily-Python-Challenges.git
+
+2. **Navigate to the folder**:
+```bash
+cd Daily-Python-Challenges
+
+3. **Explore challenges**:
+- Find challenges in the challenges/ folder.
+- Read problem descriptions in the README.
+
+
+## Resources
+
+
+
+
+
 
