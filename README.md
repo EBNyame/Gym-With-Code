@@ -27,7 +27,7 @@ Each challenge includes:
 
 | Day  | Challenge                | Description                         | Solution Link                  | Status  |
 |------|--------------------------|-------------------------------------|--------------------------------|---------|
-|  1   | Print Hello              | Print "Hello, World!" to the console. | [Day01_PrintHello.py](challenges/Day01_PrintHello.py) | ✅ Done |
+|  1   | Print Hello              | Print "Hello, World!" to the console. | [Day01_PrintHello.py](Challenge1.py) | ✅ Done |
 |  2   | Simple Calculator        | Perform basic arithmetic operations. | [Day02_SimpleCalculator.py](challenges/Day02_SimpleCalculator.py) | ✅ Done |
 |  3   | Coming Soon...           | 🔄 Stay tuned!                      |                                | 🔄 Ongoing |
 
