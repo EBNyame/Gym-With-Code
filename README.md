@@ -16,3 +16,41 @@ Each challenge includes:
 
 ## Repository Structure
 
+
+
+
+
+
+---
+
+## Progress Tracker
+
+| Day  | Challenge                | Description                         | Solution Link                  | Status  |
+|------|--------------------------|-------------------------------------|--------------------------------|---------|
+|  1   | Print Hello              | Print "Hello, World!" to the console. | [Day01_PrintHello.py](challenges/Day01_PrintHello.py) | ✅ Done |
+|  2   | Simple Calculator        | Perform basic arithmetic operations. | [Day02_SimpleCalculator.py](challenges/Day02_SimpleCalculator.py) | ✅ Done |
+|  3   | Coming Soon...           | 🔄 Stay tuned!                      |                                | 🔄 Ongoing |
+
+---
+
+## Today's Challenge: Day 1
+
+### **Print Hello**
+
+**Problem Description**:  
+Write a Python program that prints "Hello, World!" to the console.
+
+**Solution**:  
+You can view the solution [here](challenges/Day01_PrintHello.py).
+
+**Resources**:
+- [Python Print Function](https://docs.python.org/3/library/functions.html#print)
+
+---
+
+## How to Use This Repository
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/<your-username>/Daily-Python-Challenges.git
+
