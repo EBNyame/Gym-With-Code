@@ -63,8 +63,6 @@ cd Daily-Python-Challenges
 - Read problem descriptions in the README.
 
 
-## Resources
-
 
 
 
