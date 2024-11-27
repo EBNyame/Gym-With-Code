@@ -33,7 +33,7 @@ Each challenge includes:
 
 ---
 
-## Today's Challenge: Day 1
+## Today's Challenge:  1
 
 ### **Print Hello**
 
@@ -41,11 +41,30 @@ Each challenge includes:
 Write a Python program that prints "Hello, World!" to the console.
 
 **Solution**:  
-You can view the solution [here](challenges/Day01_PrintHello.py).
+You can view the solution [here](Challenge1.py).
 
 **Resources**:
 - [Python Print Function](https://docs.python.org/3/library/functions.html#print)
 
+<!-- ............................challenge 2.................................... -->
+## Today's Challenge:  2
+
+### **Arithmetical Operations**
+
+**Problem Description**:  
+Write a Python program to do arithmetical operations addition and division.
+**Solution**:  
+You can view the solution [here](Challenge2.py).
+
+<!-- ............................challenge 3.................................... -->
+## Today's Challenge:  3
+
+### **Finding the largest element of an array**
+
+**Problem Description**:  
+Write a Python program to find the maximized element of an array
+**Solution**:  
+You can view the solution [here](Challenge3.py).
 ---
 
 ## How to Use This Repository
