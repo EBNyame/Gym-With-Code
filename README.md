@@ -30,8 +30,7 @@ Each challenge includes:
 |  1   | Print Hello              | Print "Hello, World!" to the console. | [Challenge01_PrintHello](Challenge1.py) | ✅ Done |
 |  2   | addition and division       | Perform basic arithmetic operations. | [Challenge02_addition and division](Challenge2.py) | ✅ Done |
 | 3 | Finding the largest element of an array       |Write a Python program to find the maximum element of an array| [Challenge03_Finding Largest Element of an Array](Challenge3.py) |✅  Done |
-| 4 |   |  |  |  |
-
+| 4 |  Swapping Elements | Write a Python program to swap two variables. | [Challenge4_swapping element](Challenge4.py) | ✅ Done  |
 |  5   | Coming Soon...           | 🔄 Stay tuned!                      |                                | 🔄 Ongoing |
 
 ---
