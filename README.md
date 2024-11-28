@@ -61,7 +61,8 @@ You can view the solution [here](Challenge2.py).
 
 ### **Finding the largest element of an array**
 
-## **Problem Description**:  
+**Problem Description**:  
+
 Write a Python program to find the maximized element of an array
 **Solution**:  
 You can view the solution [here](Challenge3.py).
