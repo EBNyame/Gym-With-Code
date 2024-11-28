@@ -64,8 +64,10 @@ You can view the solution [here](Challenge2.py).
 **Problem Description**:  
 
 Write a Python program to find the maximized element of an array
+
 **Solution**:  
 You can view the solution [here](Challenge3.py).
+
 ---
 
 ## How to Use This Repository
