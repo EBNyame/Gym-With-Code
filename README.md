@@ -69,6 +69,29 @@ Write a Python program to find the maximum element of an array
 **Solution**:  
 You can view the solution [here](Challenge3.py).
 
+
+<!-- ............................challenge 4.................................... -->
+## Today's Challenge:  4
+
+### **Swapping Variables**
+
+**Problem Description**:  
+Write a Python program to swap two variables.
+
+**Solution**:  
+You can view the solution [here](Challenge4.py).
+
+
+<!-- ............................challenge 5.................................... -->
+## Today's Challenge:  5
+
+### **Generating Random Number**
+
+**Problem Description**:  
+Write a Python program to generate a random number.
+
+**Solution**:  
+You can view the solution [here](Challenge5.py).
 ---
 
 ## How to Use This Repository
