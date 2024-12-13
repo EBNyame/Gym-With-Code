@@ -31,8 +31,8 @@ Each challenge includes:
 |  2   | addition and division       | Perform basic arithmetic operations. | [Challenge02_addition and division](Challenge2.py) | ✅ Done |
 | 3 | Finding the largest element of an array       |Write a Python program to find the maximum element of an array| [Challenge03_Finding Largest Element of an Array](Challenge3.py) |✅  Done |
 | 4 |  Swapping Elements | Write a Python program to swap two variables. | [Challenge4_swapping element](Challenge4.py) | ✅ Done  |
-| 5 |  Generate a random number| Write a Python program to generate a random number | [Challenge4_random_number](Challenge5.py) |
-| 6 | Convert kilometers to miles | Write a Python program to convert kilometers to miles. | [Challenge6_to_miles](Challenge6.py)|
+| 5 |  Generate a random number| Write a Python program to generate a random number | [Challenge4_random_number](Challenge5.py) |✅  Done |
+| 6 | Convert kilometers to miles | Write a Python program to convert kilometers to miles. | [Challenge6_to_miles](Challenge6.py)| ✅  Done |
 |  7 | Coming Soon...           | 🔄 Stay tuned!                      |                                | 🔄 Ongoing |
 
 ---
