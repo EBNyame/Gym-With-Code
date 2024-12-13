@@ -31,9 +31,9 @@ Each challenge includes:
 |  2   | addition and division       | Perform basic arithmetic operations. | [Challenge02_addition and division](Challenge2.py) | ✅ Done |
 | 3 | Finding the largest element of an array       |Write a Python program to find the maximum element of an array| [Challenge03_Finding Largest Element of an Array](Challenge3.py) |✅  Done |
 | 4 |  Swapping Elements | Write a Python program to swap two variables. | [Challenge4_swapping element](Challenge4.py) | ✅ Done  |
-| 5 |  Generate a random number| Write a Python program to generate a random number | [Challenge4_random_number](Challenge5.py) |✅  Done |
-|  7 | Calendar         | Write a Python program to display calendar!                      |      [Challenge7_calendar](Challenge7.py)                          | ✅  Done |
-|  8 | Coming Soon...           | 🔄 Stay tuned!                      |                                | 🔄 Ongoing |
+| 5 |  Generate a random number| Write a Python program to generate a random number | [Challenge5_random_number](Challenge5.py) |✅  Done |
+|  6 | Calendar         | Write a Python program to display calendar!                      |      [Challenge6_calendar](Challenge6.py)                          | ✅  Done |
+|  7 | Coming Soon...           | 🔄 Stay tuned!                      |                                | 🔄 Ongoing |
 
 ---
 
