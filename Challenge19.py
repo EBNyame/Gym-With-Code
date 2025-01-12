@@ -12,3 +12,4 @@ def merge(w1, w2):
 
 print(merge('Hello', 'World'))
 print(merge('World', "Hello"))
+print(merge('you', 'me'))
