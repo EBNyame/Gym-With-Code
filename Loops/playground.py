@@ -36,18 +36,27 @@
 # print(ah("101"))
 
 
-n = 10
+# n = 10
 
-k = 2
-# ok = []
-# ok = [x for x in range(1, n, k)]
+# k = 2
+# # ok = []
+# # ok = [x for x in range(1, n, k)]
 
-# print(ok)
+# # print(ok)
 
-l = []
-for i in range(1, n + 1, k):
-    print(i)
-    # L = list(i)
-    # print(L)
-    l.append(i)
-    print(l)
+# l = []
+# for i in range(1, n + 1, k):
+#     print(i)
+#     # L = list(i)
+#     # print(L)
+#     l.append(i)
+#     print(l)
+
+
+a = [1,4,0,2,0,0]
+
+for i in range(len(a)- 1):
+    if a[i] == 0:
+        a[i], a[i + 1] = a[i + 1], a[i]
+
+print(a)
