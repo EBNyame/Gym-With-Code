@@ -47,7 +47,7 @@
 # l = []
 # for i in range(1, n + 1, k):
 #     print(i)
-#     # L = list(i)
+#     # L = list(i)/'
 #     # print(L)
 #     l.append(i)
 #     print(l)
