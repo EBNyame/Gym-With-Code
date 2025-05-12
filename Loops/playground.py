@@ -53,10 +53,68 @@
 #     print(l)
 
 
-a = [1,4,0,2,0,0]
 
-for i in range(len(a)- 1):
-    if a[i] == 0:
-        a[i], a[i + 1] = a[i + 1], a[i]
 
-print(a)
+# a = [3,1,2,2,2,1,3]
+# count = 0
+# k = 2
+
+# def countPairs(nums, k: int) -> int:
+#     count = 0
+#     n = len(nums)
+
+#     for i in range(n - 1):
+#         for j in range(i + 1, n):
+#             if nums[i] == nums[j] and (i * j) % k == 0:
+#                 count += 1
+
+#     return count
+
+# print(countPairs(a, k))
+
+
+
+
+
+# for i in range(len(nums)):
+#     for num in nums:
+#         string = str(num)
+#         reverse = string[::-1]
+#     # back_to_int = int(reverse)
+#     # nums.add(reverse)
+
+# print(len(nums))
+
+
+
+# nums =[ [10, 20, 33, 5], 
+#         [1, 3, 5, 6],
+#         [11, 44, 55, 66] ]
+
+# rel = [num for num in range(len(nums))]
+# # print(rel)
+
+# for i in range(len(nums)):
+#     for j in range(len(nums[0])):
+#         print(nums[i][j])
+
+# rel = [i for i in range(len(nums)) j for j in range(len(nums))]
+
+
+nums = [1, 2, 3, 4, 5]
+arr = []
+win = []
+
+# for i in range(len(nums)):
+#     arr.append(nums[i])
+#     print(*arr)
+
+
+# for j in range(len(arr) - 1, -1, -1):
+#     win.append(nums[j])
+#     print(*win)
+
+
+new = []
+
+
